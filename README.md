@@ -53,15 +53,6 @@ Although Geo 0 initially showed strong point-estimate profit, uncertainty analys
 
 Considering both return and risk, **Geo 1 is the most economically justified region for investment.**
 
-## How to Run
-1. Place the datasets (`geo_0.csv`, `geo_1.csv`, `geo_2.csv`) inside a `data/` folder.
-2. Run the notebook from top to bottom.
-
-Required libraries:
-- pandas
-- numpy
-- scikit-learn
-
 ## Dataset
 
 The dataset is not included in this repository.
@@ -70,4 +61,13 @@ To run the notebook:
 1. Create a folder named `data/`
 2. Place the required CSV files (`geo_0.csv`, `geo_1.csv`, `geo_2.csv`) inside that folder
 3. Run the notebook from top to bottom
+
+## How to Run
+1. Place the datasets (`geo_0.csv`, `geo_1.csv`, `geo_2.csv`) inside a `data/` folder.
+2. Run the notebook from top to bottom.
+
+Required libraries:
+- pandas
+- numpy
+- scikit-learn
 
