@@ -71,3 +71,4 @@ Required libraries:
 - numpy
 - scikit-learn
 
+Note: Data files are excluded using .gitignore.
