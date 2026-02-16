@@ -61,3 +61,13 @@ Required libraries:
 - pandas
 - numpy
 - scikit-learn
+
+## Dataset
+
+The dataset is not included in this repository.
+
+To run the notebook:
+1. Create a folder named `data/`
+2. Place the required CSV files (`geo_0.csv`, `geo_1.csv`, `geo_2.csv`) inside that folder
+3. Run the notebook from top to bottom
+
